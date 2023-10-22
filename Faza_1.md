@@ -3,10 +3,10 @@
 ## Základný opis dát spolu s ich charakteristikami (5b)
 
 EDA s vizualizáciou  
- - [ ] (1b) Analýza štruktúr dát: 
+ - [x] (1b) Analýza štruktúr dát: 
    - Súbory: štruktúry a vzťahy, počet, typy, …
    - Záznamy: štruktúry, počet záznamov, počet atribútov, typy, …
- - [ ] (1b) Analýza jednotlivých atribútov: pre zvolené významné atribúty (min 10) analyzujte ich distribúcie a základné deskriptívne štatistiky. 
+ - [x] (1b) Analýza jednotlivých atribútov: pre zvolené významné atribúty (min 10) analyzujte ich distribúcie a základné deskriptívne štatistiky. 
  - [ ] (1b) Párová analýza dát: Identifikujte vzťahy a závislostí medzi dvojicami atribútov, napr. korelácie.
  - [ ] (1b) Párová analýza dát: Identifikujte závislosti medzi predikovanou premennou a ostatnými premennými (potenciálnymi prediktormi).
  - [ ] (1b) Dokumentujte Vaše prvotné zamyslenie k riešeniu zadania projektu, napr. sú niektoré atribúty medzi sebou závislé? od ktorých atribútov závisí predikovaná premenná? či sa dá kombinovať záznamy z viacerých súborov? či je potrebné ich kombinovať?
