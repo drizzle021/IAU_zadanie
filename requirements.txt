@@ -1,6 +1,4 @@
 numpy
-scipy
-notebook
 pandas
 matplotlib
 seaborn
