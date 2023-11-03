@@ -7,14 +7,14 @@ EDA s vizualizáciou
    - Súbory: štruktúry a vzťahy, počet, typy, …
    - Záznamy: štruktúry, počet záznamov, počet atribútov, typy, …
  - [x] (1b) Analýza jednotlivých atribútov: pre zvolené významné atribúty (min 10) analyzujte ich distribúcie a základné deskriptívne štatistiky. 
- - [ ] (1b) Párová analýza dát: Identifikujte vzťahy a závislostí medzi dvojicami atribútov, napr. korelácie.
- - [ ] (1b) Párová analýza dát: Identifikujte závislosti medzi predikovanou premennou a ostatnými premennými (potenciálnymi prediktormi).
- - [ ] (1b) Dokumentujte Vaše prvotné zamyslenie k riešeniu zadania projektu, napr. sú niektoré atribúty medzi sebou závislé? od ktorých atribútov závisí predikovaná premenná? či sa dá kombinovať záznamy z viacerých súborov? či je potrebné ich kombinovať?
+ - [x] (1b) Párová analýza dát: Identifikujte vzťahy a závislostí medzi dvojicami atribútov, napr. korelácie.
+ - [x] (1b) Párová analýza dát: Identifikujte závislosti medzi predikovanou premennou a ostatnými premennými (potenciálnymi prediktormi).
+ - [x] (1b) Dokumentujte Vaše prvotné zamyslenie k riešeniu zadania projektu, napr. sú niektoré atribúty medzi sebou závislé? od ktorých atribútov závisí predikovaná premenná? či sa dá kombinovať záznamy z viacerých súborov? či je potrebné ich kombinovať?
 
 ## Identifikácia problémov v dátach s prvotným riešením (5b)
 
- - [ ] (3b) Identifikujte problémy v dátach napr.: nevhodná štruktúra dát, duplicitné záznamy (riadky, stlpce), nejednotné formáty, chýbajúce hodnoty, vychýlené hodnoty. V dátach sa môžu nachádzať aj iné, tu nevymenované problémy. 
- - [ ] (2b) Navrhnuté riešenie problémov s dátami prvotne realizujte na dátach. Problémy s dátami môžete riešiť iteratívne v každej fáze aj vo všetkých fázach podľa Vašej potreby.
+ - [x] (3b) Identifikujte problémy v dátach napr.: nevhodná štruktúra dát, duplicitné záznamy (riadky, stlpce), nejednotné formáty, chýbajúce hodnoty, vychýlené hodnoty. V dátach sa môžu nachádzať aj iné, tu nevymenované problémy. 
+ - [x] (2b) Navrhnuté riešenie problémov s dátami prvotne realizujte na dátach. Problémy s dátami môžete riešiť iteratívne v každej fáze aj vo všetkých fázach podľa Vašej potreby.
 
 ## Formulácia a štatistické overenie hypotéz o dátach (5b)
 
